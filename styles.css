@@ -1,0 +1,17 @@
+
+.all{
+    text-align: center;
+}
+
+.component{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.btn{
+    margin: 10px;
+    padding: 20px;
+    background-color: burlywood;
+    border-radius: 20px;
+    font-size: 20px;
+}
